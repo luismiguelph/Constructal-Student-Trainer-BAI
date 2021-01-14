@@ -1,2 +1,3 @@
-# my-new-project-bai
+# Constructal-Student-Trainer-BAI
+
 building ai course project
