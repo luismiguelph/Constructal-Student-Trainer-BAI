@@ -8,7 +8,7 @@ Building ai course project on a constructal student trainer for focusing and avo
 
 ## Background
 
-The constructal theory was stated by Professor Adrian Bejan in late XX century, and is related to system flow optimization in Nature and Engineering, that provide tree shape configuration optimization.  When a student works hard on subjects, wants to optimize the flow of ideas on the brains tree shape neural network, but procrastination will make it harder, with distractions like social apps; plenty of interruptions; other obligations; etc., that will create over flows on theirs systems of neurons and/or mental blocks.
+The constructal theory was stated by Professor Adrian Bejan in late XX century, and is related to system flow optimization in Nature and Engineering, that provide tree shape configuration optimization.  When a student works hard on subjects, wants to optimize the flow of ideas on the brains tree shape neural network, but procrastination will make it harder, with distractions like social apps; plenty of interruptions; other obligations; etc., that will create over flows on theirs neuronal network and/or mental blocks.
 
 ## How is it used?
 
