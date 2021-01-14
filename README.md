@@ -34,5 +34,5 @@ Bibliography
 https://www.researchgate.net/publication/331354973_A_Flow_Systems_Perspective_of_Cognition
 https://www.youtube.com/watch?v=tgEBTPee9ZM
 https://www.youtube.com/watch?v=GMYr-H70VYo
-Bejan, A (2000), shape and structure, from engineering to nature. Cambridge University Press
+Bejan, A (2000), shape and structure, from engineering to nature. Cambridge University Press 
 
