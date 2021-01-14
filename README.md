@@ -16,7 +16,7 @@ An AI program is needed, for training the students, from schools to universities
 
 ## Data sources and AI methods
 
-The program would gadder information on the work needed to be accomplished by the student plus number of hours effective work  and cross reference with the activities not related with the goals, like social apps behavior, interruptions on work; screen suck  on the computer of mobile phone. The program could give warning signs and also tips how to be more concentrated like enjoying a chocolate while studding so the brain associates the pleasure of chocolate to the studding activities.
+The program would gadder information on the work needed to be accomplished by the student plus number of hours effective work plus hours of sleep; and cross reference with the activities not related with the goals, like social apps behavior, interruptions on work; screen suck  on the computer of mobile phone. The program could give warning signs and also tips how to be more concentrated like enjoying a chocolate while studding so the brain associates the pleasure of chocolate to the studding activities.
 
 ## Challenges
 
