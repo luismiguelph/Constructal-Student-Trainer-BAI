@@ -12,7 +12,7 @@ The constructal theory was stated by Professor Adrian Bejan in late XX century, 
 
 ## How is it used?
 
-An AI program is needed, to train the students, from schools to universities, to overcome procrastination and inefficiencies on their studies organization so they can improve themselves.
+An AI program is needed, for training the students, from schools to universities, to overcome procrastination and inefficiencies on their studies organization so they can improve themselves.
 
 ## Data sources and AI methods
 
